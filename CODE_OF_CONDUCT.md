@@ -1,8 +1,8 @@
 # Code of Conduct
 
-The GitHub Satellite 2020 Discussion Forum is intended to be a place for questions, feedback and chat related to sessions at the virtual GitHub Satellite 2020 event. This is a civilized place for connecting with other attendees, and hubbers from across the world taking part in the event. By participating in this Community, you are agreeing to the same [Terms of Service](https://help.github.com/articles/github-terms-of-service) that apply to GitHub.com, as well as this discussions specific Code of Conduct.
+The GitHub Satellite 2020 Discussion Forum is intended to be a place for questions, feedback and chat related to sessions at the virtual GitHub Satellite 2020 event. This is a civilized place for connecting with other attendees, and Hubbers from across the world taking part in the event. By participating in this community, you are agreeing to the same [Terms of Service](https://help.github.com/articles/github-terms-of-service) that apply to GitHub.com, as well as the GitHub Satellite 2020 Discussion Forum specific Code of Conduct.
 
-With this Code of Conduct, we hope to help you understand how best to collaborate in the Discussions, what you can expect from moderators, and what type of actions or content may result in temporary or permanent suspension from this project. We will investigate any abuse reports and may moderate public content within the discussion that we determine to be in violation of either the GitHub Terms of Service or this Code of Conduct.
+With this Code of Conduct, we hope to help you understand how best to collaborate in  Discussions, what you can expect from moderators, and what type of actions or content may result in temporary or permanent suspension from this project. We will investigate any abuse reports and may moderate public content within the discussion that we determine to be in violation of either the GitHub Terms of Service or this Code of Conduct.
 
 GitHub users worldwide bring wildly different perspectives, ideas, and experiences, and range from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub Satellite a welcoming environment for all the different voices and perspectives here, while maintaining a space where people are free to express themselves.
 
@@ -36,7 +36,7 @@ Treat the GitHub Satellite Discussions with respect. The following are not hard 
     - Don’t post no-content replies.
     - Don’t divert a topic by changing it midstream.
 
-    Rather than posting “+1” or “Agreed”, use the Reaction emjoi button.
+    Rather than posting “+1” or “Agreed”, use the Reaction emoji button.
 
 - Be trustworthy.
   - **Always be honest.** Don’t knowingly share incorrect information or intentionally mislead other GitHub members. If you don’t know the answer to someone’s question but still want to help, you can try helping them research or find resources instead. GitHub staff will also be active in the discussions, so if you’re unsure of an answer, it’s likely a moderator will be able to help.
