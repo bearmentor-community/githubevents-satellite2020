@@ -5,6 +5,8 @@
 [Schedule](https://githubsatellite.com/schedule/)
 &nbsp;•&nbsp;
 [Speakers](https://githubsatellite.com/speakers/)
+&nbsp;•&nbsp;
+[Discussions](https://github.com/githubevents/satellite2020/discussions)
 
 <br>
 
